@@ -1,0 +1,22 @@
+.secondary-nav {
+    background-color:  #E5E5E5;
+    padding-top: 15px;
+    padding-bottom: 15px;  
+}
+
+.secondary-nav__list {
+    
+    text-decoration: ;
+}
+
+.secondary-nav__link {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #333333;
+    text-decoration: none;   
+    margin-right: 30px;
+}
+.secondary-nav__link:nth-child(5) {
+    margin-right: 0px;
+}
