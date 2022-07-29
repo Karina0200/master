@@ -1,0 +1,47 @@
+.logo {
+    border-bottom: 1px solid #EFEFEF;
+}
+
+.logo__location {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.logo__logtext {
+    display: flex;
+    justify-content: space-between;
+   
+
+}
+
+.logo__tel-location {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+.logo__tel--decor{
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    margin-right: 40px;
+    
+}
+
+.logo__button-decor {
+    width: 170px;
+    height: 40px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #000000;
+    text-decoration: none;
+    border: 2px solid #F13C6E;
+    border-radius: 40px;
+    background-color: #FFFFFF;
+
+}
