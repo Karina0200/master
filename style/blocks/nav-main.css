@@ -4,19 +4,21 @@
     padding-bottom: 30px; 
 }
 
-.secondary-nav__list {
-display: flex;
-justify-content: center;
+.nav-main__list {
+    display: flex;
+    justify-content: center;
 }
 
-.secondary-nav__link {
+.nav-main__link {
+    text-decoration: none;
+    border: none;
+    font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 16px;
-    color: #333333;
-    text-decoration: none;   
-    margin-right: 30px;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    margin-right: 40px;
 }
-.secondary-nav__link:nth-child(5) {
+.nav-main__link:nth-child(6) {
     margin-right: 0px;
 }

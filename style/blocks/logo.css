@@ -5,21 +5,18 @@
 .logo__location {
     padding-top: 20px;
     padding-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .logo__logtext {
-    display: flex;
-    justify-content: space-between;
-   
-
+  text-decoration: none;
 }
 
 .logo__tel-location {
     margin-top: 20px;
     margin-bottom: 20px;
 }
-
-
 
 .logo__tel--decor{
     text-decoration: none;
