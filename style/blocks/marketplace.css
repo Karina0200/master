@@ -1,0 +1,48 @@
+
+.marketplace {
+    background-image: url("../img/Fon.png"); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #e55b71; 
+}
+
+.marketplace__content {
+    padding-top: 180px;
+    padding-bottom: 180px;
+}
+
+.marketplace__content--h {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    color: #FFFFFF;
+    margin-bottom: 50px;
+}
+
+.marketplace__content--p {
+    width: 308px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+    overflow-y: auto;
+    margin-bottom: 50px;
+}
+
+.marketplace__content--bottom {
+    display: block;
+    text-decoration: none;
+    width: 170px;
+    height: 40px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    border: 2px solid #FFFFFF;
+    border-radius: 40px;
+    padding: 12px 25px 12px 25px;
+
+}
+
