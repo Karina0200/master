@@ -1,0 +1,34 @@
+.popular {
+    border-bottom: 1px solid #EFEFEF;
+    margin-bottom: 60px;
+}
+
+.popular__section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.popular__div{
+    width: 255px;
+    
+}
+
+.popular__div-h{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140.62%;
+    color: #000000;
+    padding-bottom: 30px;
+    margin-bottom: 25px;
+    border-bottom: 1px solid #EFEFEF;
+}
+
+.popular__ul {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 28px;
+    color: #828282;
+}
+
+
