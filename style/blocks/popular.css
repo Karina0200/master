@@ -24,11 +24,16 @@
     border-bottom: 1px solid #EFEFEF;
 }
 
-.popular__ul {
+.popular__a {
+    display: block;
     font-weight: 400;
     font-size: 12px;
     line-height: 28px;
+    color: #828282;   
+    text-decoration: none;
+    border: none;
     color: #828282;
 }
+
 
 
