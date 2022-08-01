@@ -1,0 +1,26 @@
+.end {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #EFEFEF;
+}
+.end__locatoin {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.end__p {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #828282;
+}
+
+.end__a {
+    text-decoration: none;
+    border: none;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #828282;
+}
