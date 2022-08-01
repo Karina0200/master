@@ -22,3 +22,9 @@ footer {
 padding-top: 60px;
 padding-bottom: 40px;
 }
+
+hr {
+    border-bottom: 1px solid #EFEFEF;
+    margin-bottom: 35px;
+    margin-top: 0px;
+}

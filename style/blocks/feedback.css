@@ -1,0 +1,22 @@
+.feedback {
+    margin-bottom: 40px;
+}
+
+
+.feedback__location{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; 
+
+}
+
+.feedback__location--a {
+    text-decoration: none;
+    border: none;
+}
+
+.feedback__location--size {
+    width: 45px;
+    height: 45px;
+   
+}
